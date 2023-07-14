@@ -1,17 +1,23 @@
 **Fraud Detection System**
+
 The Fraud Detection System is a project that leverages advanced data analysis techniques to analyze and filter financial transactions for banks. Although initially named as a fraud detection system, its primary purpose is to provide comprehensive analysis and filtering capabilities for financial transactions.
 
-.
+
+
 In this project, the backend is developed using Django, a powerful and flexible web framework. Django's rich set of features and robust architecture allows for efficient handling of transaction data and seamless integration with other components.
 
-.
+
+
 MongoDB was chosen as the preferred database for this project due to its flexibility and scalability. The project leverages MongoDB's document-oriented structure to store and manage transaction data efficiently.
 
-.
+
+
 To ensure the system's reliability and accuracy, extensive testing was performed. Python was used to generate millions of fake data records, simulating various transaction scenarios. These generated data sets were then imported into MongoDB for testing and validation purposes.
 
-.
+
+
 This project showcases the powerful capabilities of Django and MongoDB in developing a sophisticated financial transaction analysis and filtering system. By combining data analysis techniques with scalable technology choices, the Fraud Detection System provides banks with an effective tool to identify and manage potential risks.
+
 
 
 some result : 
