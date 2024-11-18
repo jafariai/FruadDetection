@@ -40,3 +40,13 @@ some result :
 
 
 .
+# Preview Of System
+
+## Section Home | 🚫Not Completed🚫
+![N|Solid](https://i.ibb.co/WBYhmTP/Home.png)
+
+## Section Home | 🚫Not Completed🚫
+![N|Solid](https://i.ibb.co/cLFMpJz/AddRule.png)
+
+#The next section are under construction...
+
