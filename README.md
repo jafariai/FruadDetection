@@ -42,11 +42,13 @@ some result :
 .
 # Preview Of System
 
-## Section Home | 🚫Not Completed🚫
+## Section Home
 ![N|Solid](https://i.ibb.co/WBYhmTP/Home.png)
 
-## Section Home | 🚫Not Completed🚫
+## Section Home 
 ![N|Solid](https://i.ibb.co/cLFMpJz/AddRule.png)
 
 #The next section are under construction...
 
+In the end, Altough this project didn't end up sucessfully, I've had a great time with my professor " Dr. Ghazi khani ". 
+The most challenging part of this project was finding and analyzing fruad transactions in the bank system using pandas and numpy.
